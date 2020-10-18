@@ -1,2 +1,2 @@
 # nodePersonal
-## Personal wesite, deploied on rikus.rocks
+## Personal wesite, deploied on: http://rikus.rocks
