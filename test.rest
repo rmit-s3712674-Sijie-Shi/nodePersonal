@@ -1,0 +1,8 @@
+POST http://localhost:3005/email
+Content-Type: application/json
+
+{
+    "name": "nihao",
+    "email": "123@qq.com",
+    "message": "123123"
+}
